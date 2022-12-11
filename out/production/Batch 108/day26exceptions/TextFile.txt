@@ -1,0 +1,3 @@
+Java is easy.
+Learn Java,earn money.
+We are about to finish core Java.
