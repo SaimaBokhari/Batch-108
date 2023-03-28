@@ -41,8 +41,7 @@ public class StringManipulations01 {
 
         //4.Example: Type code to find the number of words in a String; "I like to move it, move it" ==> 7
         String word = "I like to move it, move it.";
-        //Note: If you use "length" after split() method do not use parenthesis, when you use it for Strings ,
-        // put parenthesis after the length.
+        //Note: If you use "length" after split() method do not use parenthesis, when you use it for Strings
 
         int numOfWords = word.split("").length;
         System.out.println(numOfWords);

@@ -57,7 +57,7 @@ public class StringManipulations01 {
         // endsWith() method can be used to check words as well
         // e.g. endsWith("better")
 
-       // contcat () method works the same as '+' sign in Java.
+       // contcat() method works the same as '+' sign in Java.
         s.concat("!");
         String t = s.concat("!");
         System.out.println(t);
