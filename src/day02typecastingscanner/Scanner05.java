@@ -1,4 +1,4 @@
-package day01variables;
+package day02typecastingscanner;
 
 import java.util.Scanner;
 

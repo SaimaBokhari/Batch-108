@@ -31,7 +31,7 @@ public class StringManipulations01 {
         String lion = s.substring(7,11);
         String horse = s.substring(13, 18);
         String cat = s.substring(31);
-        System.out.println(lion+horse+cat);
+        System.out.println(lion +" " +horse +" " + cat);
 
         //3.Example: Type code to get initials of the first name and the last name of a given name. Ali Can ==> AC, Mary Star ==> MS etc.
         String name = "Tom Hanks";
