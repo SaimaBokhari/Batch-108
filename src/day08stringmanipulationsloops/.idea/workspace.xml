@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbcc3138-0323-4214-aef7-3046f4ea41bc" name="Changes" comment="" />
+    <list default="true" id="dbcc3138-0323-4214-aef7-3046f4ea41bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../out/production/Batch 108/samplelesson/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Batch 108/samplelesson/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../samplelesson/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../samplelesson/Strings.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
